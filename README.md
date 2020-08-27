@@ -1,3 +1,5 @@
+A small simple application to detect what season the user is currently in using the device's geolocation.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
